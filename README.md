@@ -20,12 +20,12 @@ In the past, I've briefly examined the Security Logs section in Windows Event Vi
   <li><b><a href="./Windows%20Security%20Log%20Analysis%20(2).pdf">View the PDF</a></b></li>
 </ul>
 
-<h2>Exfiltration Event Traffic:</h2>
+<h2>Simple Read/Write Python Script:</h2>
 <div align="center">
-  <img src="./Screenshot%202026-05-24%20124848.png" alt="Network Diagram" width="900">
+  <img src="./pythonScript.png" alt="PythonScript" width="900">
 </div>
 
-<h2>Ports Used:</h2>
+<h2>Modified Python Script to Target EventID 4625:</h2>
 <div align="center">
-  <img src="./Screenshot%202026-05-24%20124905.png" alt="Network Diagram" width="900">
+  <img src="./revisedPythonScript.png" alt="Network Diagram" width="900">
 </div>
