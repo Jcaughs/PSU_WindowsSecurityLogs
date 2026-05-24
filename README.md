@@ -17,7 +17,7 @@ In the past, I've briefly examined the Security Logs section in Windows Event Vi
 
 <h2>Documentation:</h2>
 <ul>
-  <li><b><a href="./CapstoneNetworkAnalysis.pdf">View the PDF</a></b></li>
+  <li><b><a href="./Windows%20Security%20Log%20Analysis%20(2).pdf">View the PDF</a></b></li>
 </ul>
 
 <h2>Exfiltration Event Traffic:</h2>
