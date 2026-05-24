@@ -1,4 +1,3 @@
-# PSU_WindowsSecurityLogs
 <h1>Uncovering Suspicious Activity in 80,000 Logs</h1>
 
 <h2>Description</h2>
