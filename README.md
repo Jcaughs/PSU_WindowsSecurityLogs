@@ -22,10 +22,10 @@ In the past, I've briefly examined the Security Logs section in Windows Event Vi
 
 <h2>Simple Read/Write Python Script:</h2>
 <div align="center">
-  <img src="./pythonScript.png" alt="PythonScript" width="900">
+  <img src="./pythonScript.png" alt="PythonScript" width="700">
 </div>
 
 <h2>Modified Python Script to Target EventID 4625:</h2>
 <div align="center">
-  <img src="./revisedPythonScript.png" alt="Network Diagram" width="900">
+  <img src="./revisedPythonScript.png" alt="Network Diagram" width="700">
 </div>
